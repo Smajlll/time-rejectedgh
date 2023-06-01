@@ -7,16 +7,17 @@
 </body>
 
 <style>
-   body {
-      background: #eefacd;
-      text-align: center;
-    }
+		body {
+		background: #f5f5f5;
+      	text-align: center;
+    	}
 		
 		h1 {
   		font-size: 24px;
   		font-weight: bold;
   		margin-top: 100px;
 		text-align: center;
+		font-family: Arial, Helvetica, sans-serif;
 		}
 
 		.big-number {
@@ -24,12 +25,14 @@
   		font-weight: bold;
   		margin-top: 50px;
 		background: inherit;
+		font-family: Arial, Helvetica, sans-serif;
 		}
 
 		p {
   		font-size: 14px;
   		margin-bottom: 50px;
 		text-align: center;
+		font-family: Arial, Helvetica, sans-serif;
 		}
 </style>
 
