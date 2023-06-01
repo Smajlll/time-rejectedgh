@@ -1,9 +1,11 @@
 <body>
   <div class="env">
-  <h1><b>How many times have I been rejected from Github Education Student Program</b></h1>
+  <h1><b>How many times have I applied for Github Education Student Program</b></h1>
   <div class="big-number">6 times</div>
-  <p>and counting...</p>
+  <p>and 6 of them were rejected :(</p>
   </div>
+  <a href="/amiaccepted" class="accepted">Am I accepted yet?</a>
+  <a href="/ispending" class="pending">Is there a pending application?</a>
 </body>
 
 <style>
@@ -34,6 +36,20 @@
 		text-align: center;
 		font-family: Arial, Helvetica, sans-serif;
 		}
+		.accepted {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 150px;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+		.pending {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 230px;
+        font-family: Arial, Helvetica, sans-serif;
+        }
 </style>
 
 
