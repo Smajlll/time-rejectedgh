@@ -1,5 +1,5 @@
 <body>
-  <div>
+  <div class="env">
   <h1><b>How many times have I been rejected from Github Education Student Program</b></h1>
   <div class="big-number">6 times</div>
   <p>and counting...</p>
@@ -9,7 +9,7 @@
 
 i
 <style>
-   body {
+   .env {
       background-color: #eefacd;
       text-align: center;
     }
