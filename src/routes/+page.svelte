@@ -9,7 +9,7 @@
 
 i
 <style>
-   div {
+   body {
       background-color: #eefacd;
       text-align: center;
     }
