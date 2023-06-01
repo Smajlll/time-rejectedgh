@@ -6,11 +6,9 @@
   </div>
 </body>
 
-
-i
 <style>
-   .env {
-      background-color: #eefacd;
+   body {
+      background: #eefacd;
       text-align: center;
     }
 		
