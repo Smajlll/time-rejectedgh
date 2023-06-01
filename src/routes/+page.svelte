@@ -8,7 +8,7 @@
 
 <style>
 		body {
-		background: #F8F8DB;
+		background: #f9f9f9;
       	text-align: center;
     	}
 		
